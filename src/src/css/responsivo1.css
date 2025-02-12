@@ -1,0 +1,45 @@
+@media(max-width: 768px){
+    h2{
+        background-color: rgb(81, 122, 75);
+        background-position: center;
+        padding: 0  15px;
+
+    }
+
+   
+} 
+
+
+@media(max-width: 496px) {
+
+h2{
+    
+width: 20px;
+background-position: center;
+padding: 0  15px;
+}
+
+
+
+.imagem-carta{
+    width: 100%;
+}
+
+}
+
+@media(max-width: 375px) {
+
+h2{
+
+    justify-content: start;
+        padding-top: 10px;
+        gap: 10px;
+}
+
+
+.carta-imagem{
+
+    width: 100%;
+}
+
+}

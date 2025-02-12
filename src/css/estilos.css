@@ -1,0 +1,74 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+ background-image:url(/src/imagens/praia\ clara.jpg) ;
+
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.cabecalho{
+    
+    display: flex;
+    justify-content: center ;
+ 
+ }
+
+ .cabecalho .titulo{
+    justify-content: center;
+    margin: 10px;
+    padding: 15px;
+    width: 420px;
+    height: 130px;
+    background-color: rgb(59, 189, 145);
+    border-radius: 50px;
+    border-style: solid;
+    border-width: 18px;
+    border-color: rgb(39, 39, 116) rgb(131, 7, 7) rgb(161, 139, 15) rgb(15, 109, 109);
+ 
+}
+.cartao.selecionado{
+    
+    opacity: 1;
+   padding: 15px;
+  
+} 
+.lista-personagens{
+    
+    border-radius: 20px;
+ }
+
+ img{
+    border-style: solid;
+    border-radius: 50px;
+    background-color: rgb(80, 46, 46);
+}
+
+.cartao .informacoes{
+    border-radius: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 10px;
+    padding: 13px;
+    width: 520px;
+    height: 60px;
+    background-color: rgb(186, 224, 141);
+    border-style: solid;
+    border-width: 8px;
+    border-color: rgb(39, 39, 116) rgb(177, 33, 33) rgb(197, 172, 31) rgb(37, 189, 189);
+    justify-content: center;
+    
+}
+h2{
+    background-color: rgb(94, 94, 151);
+    padding: 13px;
+    margin: 10px;
+    width: 520px;
+    border-style: solid;
+    border-radius: 50px;
+    border-width: 8px;
+    border-color: rgb(39, 39, 116) rgb(177, 33, 33) rgb(197, 172, 31) rgb(37, 189, 189);
+    justify-content: center;
+
+}
+

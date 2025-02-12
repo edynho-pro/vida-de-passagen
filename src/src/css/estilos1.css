@@ -1,0 +1,43 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+ background-image:url(/src/imagens/1-nascer\ do\ sol\ pro.png) ;
+
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+img{
+    padding: 13px;
+    margin: 10px;
+    border-style: solid;
+    border-radius: 50px;
+    background-color: rgb(122, 18, 18);
+}
+
+h2{
+    background-color: rgb(94, 94, 151);
+    padding: 13px;
+    margin: 10px;
+    width: 420px;
+    border-style: solid;
+    border-radius: 50px;
+    border-width: 8px;
+    border-color: rgb(39, 39, 116) rgb(177, 33, 33) rgb(197, 172, 31) rgb(37, 189, 189);
+    justify-content: center;
+
+}
+
+a{
+    background-color: rgb(77, 255, 23);
+    padding: 1px;
+    margin: 300px;
+    width: 420px;
+    border-style: solid;
+    border-radius: 50px;
+    border-width: 6px;
+    border-color: rgb(39, 39, 116) rgb(177, 33, 33) rgb(197, 172, 31) rgb(37, 189, 189);
+    justify-content: center;
+    
+}
